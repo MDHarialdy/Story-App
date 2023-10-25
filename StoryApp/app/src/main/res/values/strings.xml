@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_welcome_page">Selamat Datang Di Story App</string>
+    <string name="message_welcome_page">Selamat datang di Story App, portal ke dunia cerita tak terbatas! Di sini, Anda adalah sang pencerita utama. Mulailah petualangan kreatif Anda dan tuangkan imajinasi menjadi kisah-kisah seru yang memukau. It\'s time to let your story unfold!</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="title_signup_page">Lengkapi Data Diri</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="title_login_page">Ayo Mulai Petualanganmu!!</string>
+    <string name="message_login_page">Masukkan Username Dan Password</string>
+    <string name="stories_photo">Photo Story</string>
+    <string name="title_story">M Dolyanda Harialdy</string>
+    <string name="story_description">M Dolyanda adalah seorang mahasiswa jurusan teknologi informasi yang saat ini sedang mengikiuti program google bangkit</string>
+    <string name="logout">Logout</string>
+    <string name="add_story_button">Add Story Button</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+</resources>
